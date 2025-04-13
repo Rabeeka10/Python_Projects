@@ -7,12 +7,7 @@ Welcome to the **Unit Converter App** — a simple and user-friendly Python appl
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Open Source](https://img.shields.io/badge/License-MIT-brightgreen)
 
-## 🔗 Repository
 
-Check it out on GitHub:  
-👉 [https://github.com/Zara-Khan-7/Python_Projects](https://github.com/Zara-Khan-7/Python_Projects)
-
----
 
 ## ✨ Features
 
@@ -24,13 +19,5 @@ Check it out on GitHub:
 - Clean terminal-based UI
 - Easy to extend with more units
 
----
 
-## 🚀 How to Run
-
-1. **Clone the Repository**  
-```bash
-git clone https://github.com/Zara-Khan-7/Python_Projects.git
-
-cd Python_Projects/Unit_Converter
 
