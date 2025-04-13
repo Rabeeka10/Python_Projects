@@ -70,7 +70,7 @@ def convert_area(value, from_unit, to_unit):
     }
     return value * conversions[to_unit] / conversions[from_unit]
 
-st.set_page_config(page_title="Ultimate Unit Converter", page_icon="🔄", layout="wide")
+st.set_page_config(page_title="Unit Converter", layout="wide")
 
 st.sidebar.title("🔧 Unit Converter")
 st.sidebar.markdown("**Fast & Accurate Unit Conversion in Seconds!**")
