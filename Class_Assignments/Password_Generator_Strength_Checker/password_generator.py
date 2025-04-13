@@ -117,9 +117,7 @@ st.markdown(
             box-shadow: 0 -1px 5px rgba(0,0,0,0.3);
         }
     </style>
-    <div class="footer">
-        Made with ❤️ by <strong>Zara Khan</strong>
-    </div>
+   
     """,
     unsafe_allow_html=True
 )
