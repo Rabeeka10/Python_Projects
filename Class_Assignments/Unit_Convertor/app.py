@@ -142,5 +142,3 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.markdown("---")
-st.markdown("<p style='text-align: center;'>🌍 Made By Moiz Ahmed Shaikh</p>", unsafe_allow_html=True)
