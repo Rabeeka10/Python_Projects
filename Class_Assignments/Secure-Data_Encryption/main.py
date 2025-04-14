@@ -100,7 +100,7 @@ st.markdown("""
 st.title("🛡️ Secure Data Encryption System")
 
 st.sidebar.title("🔒 Secure Data System")
-st.sidebar.image("assets/secure.png")
+# st.sidebar.image("assets/secure.png")
 
 menu = ["Home", "Store Data", "Retrieve Data", "Login"]
 choice = st.sidebar.radio("🔗 Navigation", menu)
